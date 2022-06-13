@@ -1,0 +1,17 @@
+C:\Users\busra\source\repos\GelecekVarlik\BitirmeOdevi\HousingEstateManagementSystem.Entity\HousingEstateManagementSystem.Dal\bin\Debug\net5.0\HousingEstateManagementSystem.Dal.deps.json
+C:\Users\busra\source\repos\GelecekVarlik\BitirmeOdevi\HousingEstateManagementSystem.Entity\HousingEstateManagementSystem.Dal\bin\Debug\net5.0\HousingEstateManagementSystem.Dal.dll
+C:\Users\busra\source\repos\GelecekVarlik\BitirmeOdevi\HousingEstateManagementSystem.Entity\HousingEstateManagementSystem.Dal\bin\Debug\net5.0\ref\HousingEstateManagementSystem.Dal.dll
+C:\Users\busra\source\repos\GelecekVarlik\BitirmeOdevi\HousingEstateManagementSystem.Entity\HousingEstateManagementSystem.Dal\bin\Debug\net5.0\HousingEstateManagementSystem.Dal.pdb
+C:\Users\busra\source\repos\GelecekVarlik\BitirmeOdevi\HousingEstateManagementSystem.Entity\HousingEstateManagementSystem.Dal\obj\Debug\net5.0\HousingEstateManagementSystem.Dal.csproj.AssemblyReference.cache
+C:\Users\busra\source\repos\GelecekVarlik\BitirmeOdevi\HousingEstateManagementSystem.Entity\HousingEstateManagementSystem.Dal\obj\Debug\net5.0\HousingEstateManagementSystem.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\busra\source\repos\GelecekVarlik\BitirmeOdevi\HousingEstateManagementSystem.Entity\HousingEstateManagementSystem.Dal\obj\Debug\net5.0\HousingEstateManagementSystem.Dal.AssemblyInfoInputs.cache
+C:\Users\busra\source\repos\GelecekVarlik\BitirmeOdevi\HousingEstateManagementSystem.Entity\HousingEstateManagementSystem.Dal\obj\Debug\net5.0\HousingEstateManagementSystem.Dal.AssemblyInfo.cs
+C:\Users\busra\source\repos\GelecekVarlik\BitirmeOdevi\HousingEstateManagementSystem.Entity\HousingEstateManagementSystem.Dal\obj\Debug\net5.0\HousingEstateManagementSystem.Dal.csproj.CoreCompileInputs.cache
+C:\Users\busra\source\repos\GelecekVarlik\BitirmeOdevi\HousingEstateManagementSystem.Entity\HousingEstateManagementSystem.Dal\obj\Debug\net5.0\HousingEstateManagementSystem.Dal.dll
+C:\Users\busra\source\repos\GelecekVarlik\BitirmeOdevi\HousingEstateManagementSystem.Entity\HousingEstateManagementSystem.Dal\obj\Debug\net5.0\ref\HousingEstateManagementSystem.Dal.dll
+C:\Users\busra\source\repos\GelecekVarlik\BitirmeOdevi\HousingEstateManagementSystem.Entity\HousingEstateManagementSystem.Dal\obj\Debug\net5.0\HousingEstateManagementSystem.Dal.pdb
+C:\Users\busra\source\repos\GelecekVarlik\BitirmeOdevi\HousingEstateManagementSystem.Entity\HousingEstateManagementSystem.Dal\bin\Debug\net5.0\HousingEstateManagementSystem.Dal.runtimeconfig.json
+C:\Users\busra\source\repos\GelecekVarlik\BitirmeOdevi\HousingEstateManagementSystem.Entity\HousingEstateManagementSystem.Dal\bin\Debug\net5.0\HousingEstateManagementSystem.Dal.runtimeconfig.dev.json
+C:\Users\busra\source\repos\GelecekVarlik\BitirmeOdevi\HousingEstateManagementSystem.Entity\HousingEstateManagementSystem.Dal\bin\Debug\net5.0\HousingEstateManagementSystem.Entity.dll
+C:\Users\busra\source\repos\GelecekVarlik\BitirmeOdevi\HousingEstateManagementSystem.Entity\HousingEstateManagementSystem.Dal\bin\Debug\net5.0\HousingEstateManagementSystem.Entity.pdb
+C:\Users\busra\source\repos\GelecekVarlik\BitirmeOdevi\HousingEstateManagementSystem.Entity\HousingEstateManagementSystem.Dal\obj\Debug\net5.0\HousingEstateManagementSystem.Dal.genruntimeconfig.cache

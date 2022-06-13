@@ -1,0 +1,14 @@
+C:\Users\busra\source\repos\GelecekVarlik\BitirmeOdevi\HousingEstateManagementSystem.Entity\HousingEstateManagementSystem.Interface\bin\Debug\net5.0\HousingEstateManagementSystem.Interface.deps.json
+C:\Users\busra\source\repos\GelecekVarlik\BitirmeOdevi\HousingEstateManagementSystem.Entity\HousingEstateManagementSystem.Interface\bin\Debug\net5.0\HousingEstateManagementSystem.Interface.dll
+C:\Users\busra\source\repos\GelecekVarlik\BitirmeOdevi\HousingEstateManagementSystem.Entity\HousingEstateManagementSystem.Interface\bin\Debug\net5.0\ref\HousingEstateManagementSystem.Interface.dll
+C:\Users\busra\source\repos\GelecekVarlik\BitirmeOdevi\HousingEstateManagementSystem.Entity\HousingEstateManagementSystem.Interface\bin\Debug\net5.0\HousingEstateManagementSystem.Interface.pdb
+C:\Users\busra\source\repos\GelecekVarlik\BitirmeOdevi\HousingEstateManagementSystem.Entity\HousingEstateManagementSystem.Interface\obj\Debug\net5.0\HousingEstateManagementSystem.Interface.csproj.AssemblyReference.cache
+C:\Users\busra\source\repos\GelecekVarlik\BitirmeOdevi\HousingEstateManagementSystem.Entity\HousingEstateManagementSystem.Interface\obj\Debug\net5.0\HousingEstateManagementSystem.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\busra\source\repos\GelecekVarlik\BitirmeOdevi\HousingEstateManagementSystem.Entity\HousingEstateManagementSystem.Interface\obj\Debug\net5.0\HousingEstateManagementSystem.Interface.AssemblyInfoInputs.cache
+C:\Users\busra\source\repos\GelecekVarlik\BitirmeOdevi\HousingEstateManagementSystem.Entity\HousingEstateManagementSystem.Interface\obj\Debug\net5.0\HousingEstateManagementSystem.Interface.AssemblyInfo.cs
+C:\Users\busra\source\repos\GelecekVarlik\BitirmeOdevi\HousingEstateManagementSystem.Entity\HousingEstateManagementSystem.Interface\obj\Debug\net5.0\HousingEstateManagementSystem.Interface.csproj.CoreCompileInputs.cache
+C:\Users\busra\source\repos\GelecekVarlik\BitirmeOdevi\HousingEstateManagementSystem.Entity\HousingEstateManagementSystem.Interface\obj\Debug\net5.0\HousingEstateManagementSystem.Interface.dll
+C:\Users\busra\source\repos\GelecekVarlik\BitirmeOdevi\HousingEstateManagementSystem.Entity\HousingEstateManagementSystem.Interface\obj\Debug\net5.0\ref\HousingEstateManagementSystem.Interface.dll
+C:\Users\busra\source\repos\GelecekVarlik\BitirmeOdevi\HousingEstateManagementSystem.Entity\HousingEstateManagementSystem.Interface\obj\Debug\net5.0\HousingEstateManagementSystem.Interface.pdb
+C:\Users\busra\source\repos\GelecekVarlik\BitirmeOdevi\HousingEstateManagementSystem.Entity\HousingEstateManagementSystem.Interface\bin\Debug\net5.0\HousingEstateManagementSystem.Entity.dll
+C:\Users\busra\source\repos\GelecekVarlik\BitirmeOdevi\HousingEstateManagementSystem.Entity\HousingEstateManagementSystem.Interface\bin\Debug\net5.0\HousingEstateManagementSystem.Entity.pdb

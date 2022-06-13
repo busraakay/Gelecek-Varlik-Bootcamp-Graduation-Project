@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HousingEstateManagementSystem.Entity", "HousingEstateManagementSystem.Entity\HousingEstateManagementSystem.Entity.csproj", "{9AF5ED67-CA35-4E58-8524-EA7FD4DA86CA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HousingEstateManagementSystem.Dal", "HousingEstateManagementSystem.Dal\HousingEstateManagementSystem.Dal.csproj", "{E3EF1C01-2544-476B-8261-BE3736B6F5A9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HousingEstateManagementSystem.Interface", "HousingEstateManagementSystem.Interface\HousingEstateManagementSystem.Interface.csproj", "{DF586B12-4092-4535-BE12-B4E8CEB2CFE1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HousingEstateManagementSystem.Bll", "HousingEstateManagementSystem.Bll\HousingEstateManagementSystem.Bll.csproj", "{445EA71E-814D-4A50-BB80-DC69C1CC22E8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HousingEstateManagementSystem.WepApi", "HousingEstateManagementSystem.WepApi\HousingEstateManagementSystem.WepApi.csproj", "{98B1B492-8D8B-43BE-B37B-5853D807BDF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditCard.WepApi", "CreditCard.WepApi\CreditCard.WepApi.csproj", "{988F489F-ECCF-4D23-B555-1F183AC821F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AF5ED67-CA35-4E58-8524-EA7FD4DA86CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AF5ED67-CA35-4E58-8524-EA7FD4DA86CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AF5ED67-CA35-4E58-8524-EA7FD4DA86CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AF5ED67-CA35-4E58-8524-EA7FD4DA86CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3EF1C01-2544-476B-8261-BE3736B6F5A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3EF1C01-2544-476B-8261-BE3736B6F5A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3EF1C01-2544-476B-8261-BE3736B6F5A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3EF1C01-2544-476B-8261-BE3736B6F5A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF586B12-4092-4535-BE12-B4E8CEB2CFE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF586B12-4092-4535-BE12-B4E8CEB2CFE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF586B12-4092-4535-BE12-B4E8CEB2CFE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF586B12-4092-4535-BE12-B4E8CEB2CFE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{445EA71E-814D-4A50-BB80-DC69C1CC22E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{445EA71E-814D-4A50-BB80-DC69C1CC22E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{445EA71E-814D-4A50-BB80-DC69C1CC22E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{445EA71E-814D-4A50-BB80-DC69C1CC22E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98B1B492-8D8B-43BE-B37B-5853D807BDF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98B1B492-8D8B-43BE-B37B-5853D807BDF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98B1B492-8D8B-43BE-B37B-5853D807BDF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98B1B492-8D8B-43BE-B37B-5853D807BDF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{988F489F-ECCF-4D23-B555-1F183AC821F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{988F489F-ECCF-4D23-B555-1F183AC821F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{988F489F-ECCF-4D23-B555-1F183AC821F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{988F489F-ECCF-4D23-B555-1F183AC821F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2451FD6A-5918-4672-9BF2-61BFF4795307}
+	EndGlobalSection
+EndGlobal
