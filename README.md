@@ -1,5 +1,16 @@
 # Gelecek Varlık Bootcamp Bitirme Ödevi
 
+![database](https://github.com/busraakay/GelecekVarlikBitirmeOdevi/blob/main/databaseDiagram.PNG)
+
+- Projede ilk başta adminin login olması gerekmektedir. Daha sonra register işlemiyle kullanıcıları ekleyebilir.
+- Projede yetkilendirme ve kimlik doğrulaması işlemleri için ASP.NET Core Identity kullanılmıştır.
+- ASP.NET Core Identity'deki AspNetUsers, AspNetRoles, AspNetUserRoles tabloları aktif olarak kullanılmıştır.
+- Messages tablosu mail ile iletilen mesajlar için kullanılmışır.
+- Houses tablosu projedeki her bir daire için kullanılmıştır.
+- Payments tablosu aidat işlemleri için kullanılmıştır.
+- Invoices tablosu fatura(su, doğalgaz, elektrik) işlemleri için kullanılmıştır.
+- Ödeme işlemi için CreditCard.WepApi ile mangoDb'den alınan veriler üzerinden hesaplama ve işlemler yapılır.
+- Projede React.js ile istenilen arayüz yapımına zaman kalmamıştır.
 ## 📝 İsterler
 
 Bir sitede yöneticisiniz. Sitenizde yer alan dairelerin aidat ve ortak kullanım elektrik, su ve doğalgaz
@@ -60,18 +71,6 @@ Bu servisde sistemde ki her bir kullanıcı için banka bilgileri(bakiye, kredi 
 3. Kredi kartı servisi için. Veriler mongodb de tutulacak. Servis .Net WebApi olarak yazılacaktır.
 4. Mümkün olduğu kadar derslerde işlenen konular projeye entegre edilmelidir.
 
-### Proje Veritabanı
 
-![database](https://github.com/busraakay/GelecekVarlikBitirmeOdevi/blob/main/databaseDiagram.PNG)
-
-- Projede ilk başta adminin login olması gerekmektedir. Daha sonra register işlemiyle kullanıcıları ekleyebilir.
-- Projede yetkilendirme ve kimlik doğrulaması işlemleri için ASP.NET Core Identity kullanılmıştır.
-- ASP.NET Core Identity'deki AspNetUsers, AspNetRoles, AspNetUserRoles tabloları aktif olarak kullanılmıştır.
-- Messages tablosu mail ile iletilen mesajlar için kullanılmışır.
-- Houses tablosu projedeki her bir daire için kullanılmıştır.
-- Payments tablosu aidat işlemleri için kullanılmıştır.
-- Invoices tablosu fatura(su, doğalgaz, elektrik) işlemleri için kullanılmıştır.
-- Ödeme işlemi için CreditCard.WepApi ile mangoDb'den alınan veriler üzerinden hesaplama ve işlemler yapılır.
-- Projede React.js ile istenilen arayüz yapımına zaman kalmamıştır.
 
 ## 👩‍💻 Büşra Akay
