@@ -1,9 +1,36 @@
-# Gelecek Varlık Bootcamp Bitirme Ödevi
+# 🚀 Gelecek Varlık Bootcamp Bitirme Projesi
+Bir sitede yöneticinin aidat ve diğer faturaların yönetimini sağlayan sistemdir.
 
+## ⚙️ Kullanılan Teknolojiler
+- ASP.Net 5 ile Entity Framework Core
+- AutoMapper
+- SOLID Principles
+- Dependency Injection
+- Extensions kavramı
+- Kurumsal Mimaride Proje tasarımı
+- CodeFirst yaklaşımı
+- Generic yapılar 
+
+#### Proje 6 katmandan oluşur:
+- 
+  - Entity Layer
+  - Data Access Layer
+  - Business Logic Layer
+  - Interface Layer
+  - WebApi
+  - MongoApi (Kredi Kartı Servisi)
+
+## 📷 Ekran Görüntüleri
+![resim1](https://github.com/busraakay/Gelecek-Varlik-Bootcamp-Graduation-Project/blob/main/Resimler/resim1.PNG)
+![resim2](https://github.com/busraakay/Gelecek-Varlik-Bootcamp-Graduation-Project/blob/main/Resimler/resim2.PNG)
+![resim3](https://github.com/busraakay/Gelecek-Varlik-Bootcamp-Graduation-Project/blob/main/Resimler/resim3.PNG)
+![resim4](https://github.com/busraakay/Gelecek-Varlik-Bootcamp-Graduation-Project/blob/main/Resimler/resim4.PNG)
+
+### Veritabanı Diagramı
 ![database](https://github.com/busraakay/GelecekVarlikBitirmeOdevi/blob/main/databaseDiagram.PNG)
 
 - Projede ilk başta adminin login olması gerekmektedir. Daha sonra register işlemiyle kullanıcıları ekleyebilir.
-- Projede yetkilendirme ve kimlik doğrulaması işlemleri için ASP.NET Core Identity kullanılmıştır.
+- Projede yetkilendirme ve kimlik doğrulaması işlemleri için **ASP.NET Core Identity** kullanılmıştır.
 - ASP.NET Core Identity'deki AspNetUsers, AspNetRoles, AspNetUserRoles tabloları aktif olarak kullanılmıştır.
 - Messages tablosu mail ile iletilen mesajlar için kullanılmışır.
 - Houses tablosu projedeki her bir daire için kullanılmıştır.
